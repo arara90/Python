@@ -1,0 +1,29 @@
+* 파이썬 라이브러리 pyodbc를 사용하여 SQL Server데이터베이스를 접속하고
+  VideoShop의 VS_CUSTOMER를 가져오는(SELECT) 기능을 구현하시오.
+
+
+* 제공된 seoul.csv를 사용하여 서울 기온데이터를 사용하여 
+   - 기상 관측 이래 가장 더웠던 날은 몇도 있는지 출력하고, 그래프로 출력하시오.
+     (plot, histgram사용)
+
+
+* 제공된 village_poplation.csv를 사용하여 원하는 동을 입력하면 해당 동에 대한 지역의
+   인구 구조 그래프를 츨력하시오.
+
+
+* 제공된 village_poplation.csv를 사용하여 '신도림동'을 제외한 결과를 출력하시오.
+
+
+* 국민 청원 사이트에서 www1.president.go.kr/petitions에서 5페이지의 청원중 참여 인원이
+  3명이상인 청원을 추출하시오.
+
+
+* 제공된 pop_seoul.csv사용하여 서울시 구별 CCTV 현황을 분석하시오.
+  - 서울시 각 구별로 CCTV수를 파악하고, 인구대비 CCTV비율을 파악해서 순위를 비교하시오.
+
+* 제공된 crime_seoul.csv를 사용하여 서을 특별시의 강도검거율이 100이상인 지역을 출력하시오.
+
+
+
+ 
+ 
