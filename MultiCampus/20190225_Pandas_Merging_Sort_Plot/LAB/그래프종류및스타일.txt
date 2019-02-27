@@ -1,0 +1,37 @@
+* 그래프 종류
+'-'		Solid line style
+'--'	Dashed line style
+'-.'	Dash-dot line style
+':'		Dotted line style
+'.'		Point marker
+','		Pixel marker
+'o'		Circle marker
+'v'		Triangle_down marker
+'^'		Triangle_up marker
+'<'		Triangle_left marker
+'>'		Triangle_right marker
+'1'		Tri_down marker
+'2'		Tri_up marker
+'3'		Tri_left marker
+'4'		Tri_right marker
+'s'		Square marker
+'p'		Pentagon marker
+'*'		Star marker
+'h'		Hexagon1 marker
+'H'		Hexagon2 marker
+'+'		Plus marker
+'x'		X marker
+'D'		Diamond marker
+'d'		Thin_diamond marker
+'|'		Vline marker
+'_'		Hline marker
+
+*색상
+'b'	Blue
+'g'	Green
+'r'	Red
+'c'	Cyan
+'m'	Magenta
+'y'	Yellow
+'k'	Black
+'w'	White
